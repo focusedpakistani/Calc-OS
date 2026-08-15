@@ -1,5 +1,8 @@
 # 🧮 Calc OS - Advanced Material 3 Calculator for Android
 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Techinsider_PK/the-new-wave-of-deep-tech-how-muhammad-awais-and-sawera-ehsar-are-disrupting-the-pakistani-tech-7bf2ddf4fa62"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Techinsider_PK/the-new-wave-of-deep-tech-how-muhammad-awais-and-sawera-ehsar-are-disrupting-the-pakistani-tech-7bf2ddf4fa62" alt="Recent Article 0"> 
+
+
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
 ![UI](https://img.shields.io/badge/UI-Material%20Design%203-6750A4)
 ![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20Tailwind%20%7C%20JS-blue)
